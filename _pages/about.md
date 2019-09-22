@@ -17,9 +17,11 @@ Earned 2 years of experience in applied machine learning to different business a
 * [Kaggle](https://www.kaggle.com/smerllo)
 
 ### News: 
-* **21th of July, 2019 : gave a talk in tech school about  [Machine Learning 101](https://www.linkedin.com/posts/3w-academy-maroc_machinelearning-fulbright-activity-6555025438794625024-pXlV)**
+* **September 2019: Our paper Camparative Study of Light-GBM and Survival LSTM has been accepted to CinC 2019 in Singapore
 
-* **11th of April, 2019: Proud to be part of the first #Kaggle event in the US at #San_Francisco along with #GoogleNext19. I was happy to connect and speak with other data science practitioners from Silicon Valley and Bay Area. [San Francisco: Kaggle Days & Google Next'19](https://www.linkedin.com/posts/soufiane-chami_kaggle-sanabrfrancisco-googlenext19-activity-6527099250373988352-6dkv)**
+* **July 2019 : gave a talk in tech school about  [Machine Learning 101](https://www.linkedin.com/posts/3w-academy-maroc_machinelearning-fulbright-activity-6555025438794625024-pXlV)**
+
+* **April 2019: Proud to be part of the first #Kaggle event in the US at #San_Francisco along with #GoogleNext19. I was happy to connect and speak with other data science practitioners from Silicon Valley and Bay Area. [San Francisco: Kaggle Days & Google Next'19](https://www.linkedin.com/posts/soufiane-chami_kaggle-sanabrfrancisco-googlenext19-activity-6527099250373988352-6dkv)**
 
 
 <!--
