@@ -17,7 +17,8 @@ Earned 2 years of experience in applied machine learning to different business a
 * [Kaggle](https://www.kaggle.com/smerllo)
 
 ### News: 
-* **September 2019: Our paper Camparative Study of Light-GBM and Survival LSTM has been accepted to CinC 2019 in Singapore
+
+* **September 2019 : Our paper Camparative Study of Light-GBM and Survival LSTM has been accepted to CinC 2019 in Singapore**
 
 * **July 2019 : gave a talk in tech school about  [Machine Learning 101](https://www.linkedin.com/posts/3w-academy-maroc_machinelearning-fulbright-activity-6555025438794625024-pXlV)**
 
