@@ -1,7 +1,7 @@
 ---
 title: "Sepsis Detection"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-1.md
 excerpt: 'Early Detection Sepsis with Clinical Data'
 date: 2019-09-21
 venue: 'CinC 2019 - Singapore'
