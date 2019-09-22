@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :"https://www.linkedin.com/in/soufiane-chami/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "cs20"
+  stackoverflow    : "https://stackoverflow.com/users/7362261/cs20"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  kaggle           : "smerllo"
+  kaggle           : "https://www.kaggle.com/smerllo"
 
 
 # Reading Files
