@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Team Lead - regional Forum "
 collection: teaching
-type: "Undergraduate course"
+type: "Extra- curricular activity"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Classe préparatoire aux grandes écoles, Alumni Association"
+date: 2017-09-01
+location: "Laayoune, Morocco"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I served in logistic crew for the forum, then a head of the logistics crew. In my final year, I served as the Team lead of the whole organization unit of the forum.
