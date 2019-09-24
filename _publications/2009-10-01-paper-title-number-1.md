@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Sepsis Detection"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1.md
@@ -9,4 +9,4 @@ paperurl: ''
 citation: 'Soufiane CHAMI, Kouhyar Tavakolian, and Naaima Kaabouch. "Comparative study of Light-GBM and Survival LSTM for Early detection of sepsis" CinC. 2019 [PDF](http://www.cinc.org/2019/Program/accepted/367_CinCFinalPDF.pdf)'
 ---
 
-Soufiane CHAMI, Kouhyar Tavakolian, and Naaima Kaabouch. "Comparative study of Light-GBM and Survival LSTM for Early detection of sepsis" CinC. 2019 [PDF](http://www.cinc.org/2019/Program/accepted/367_CinCFinalPDF.pdf)
+Soufiane CHAMI, Kouhyar Tavakolian, and Naaima Kaabouch. "Comparative study of Light-GBM and Survival LSTM for Early detection of sepsis" CinC. 2019 [PDF](http://www.cinc.org/2019/Program/accepted/367_CinCFinalPDF.pdf) -->
