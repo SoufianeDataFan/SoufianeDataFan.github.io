@@ -1,7 +1,7 @@
 ---
-title: "Team Lead - regional Forum "
+title: "Team Lead - Regional Forum "
 collection: teaching
-type: "Extra- curricular activity"
+type: "Extra- curricular"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Classe préparatoire aux grandes écoles, Alumni Association"
 date: 2017-09-01

@@ -1,9 +1,9 @@
 ---
-title: "Project Management"
+title: "Project Management - Enactus EMI "
 collection: teaching
 type: "Social Entrepreneurship"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Enactus EMI ,Johannesburg"
+venue: "Johannesburg, South Africa"
 date: 2015-01-01
 location: "Johannesburg, South Africa"
 ---
