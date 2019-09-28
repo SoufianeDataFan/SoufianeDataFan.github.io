@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-You can download the [PDF](https://soufianedatafan.github.io/files/CHAMI_Soufiane_Resume_DS.pdf) version from
+A PDF of my resume can be downloaded[here](https://soufianedatafan.github.io/files/CHAMI_Soufiane_Resume_DS.pdf).
+
 
 **Web version is under construction**
 
