@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download the PDF [PDF](http://https://github.com/SoufianeDataFan/soufianedatafan.github.io/files/CHAMI_Soufiane_Resume_DS.pdf) version from
+You can download the [PDF](http://https://github.com/SoufianeDataFan/soufianedatafan.github.io/files/CHAMI_Soufiane_Resume_DS.pdf) version from
 
 
 <!--
