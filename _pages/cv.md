@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+You can download the PDF [PDF](http://https://github.com/SoufianeDataFan/soufianedatafan.github.io/files/CHAMI_Soufiane_Resume_DS.pdf) version from
+
+
+<!--
 Education
 ======
 * B.S. in Math & Physics, Classe préparatoire aux grandes écoles, 2014 [[The workload is one of the highest in Europe](https://www.telegraph.co.uk/expat/4190728/Frances-educational-elite.html)]
@@ -56,4 +60,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
