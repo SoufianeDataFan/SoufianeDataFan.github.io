@@ -16,9 +16,9 @@ Earned 2 years of experience in applied machine learning to different business a
 
 * **11th of September 2019 :** Our paper Early detection of sepsis using Light-GBM has been accepted and presented in CinC 2019 Conference in Singapore
 
-* **July 2019 :** gave a talk in tech school about  [Machine Learning 101](https://www.linkedin.com/posts/3w-academy-maroc_machinelearning-fulbright-activity-6555025438794625024-pXlV)
+* **July 2019 :** gave a talk in tech school about  [Machine Learning 101](http://bit.ly/2niZsLt)
 
-* **April 2019:** [San Francisco: Kaggle Days & Google Next'19](https://www.linkedin.com/posts/soufiane-chami_kaggle-sanabrfrancisco-googlenext19-activity-6527099250373988352-6dkv) Proud to be part of the first Kaggle event in the US at San Francisco along with GoogleNext19. I was happy to connect and speak with other data science practitioners from Silicon Valley and Bay Area.
+* **April 2019:** [San Francisco: Kaggle Days & Google Next'19](http://bit.ly/2oVdT8F) Proud to be part of the first Kaggle event in the US at San Francisco along with GoogleNext19. I was happy to connect and speak with other data science practitioners from Silicon Valley and Bay Area.
 
 
 <!--
