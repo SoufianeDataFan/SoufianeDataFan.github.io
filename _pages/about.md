@@ -12,7 +12,7 @@ Earned 2 years of experience in applied machine learning to different business a
 
 ### News:
 
-* **October 2019 :** Top 11% for the most performing model (92.8% AUC) at IEEE [Competition for Fraud detection Competition](https://www.kaggle.com/smerllo). Check out some of [my contributions](https://www.kaggle.com/smerllo/identify-unique-cards-id). [solution will be published soon!]
+* **October 2019 :** Top 11% for the most performing model (92.8% AUC) at [IEEE Competition for Fraud detection Competition](https://www.kaggle.com/smerllo). Check out some of [my contributions](https://www.kaggle.com/smerllo/identify-unique-cards-id). [solution will be published soon!]
 
 * **September 2019 :** Got the Student Funding Award by NSF for IEOM Conference in Toronto, Canada
 
