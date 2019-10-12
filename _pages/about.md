@@ -12,9 +12,11 @@ Earned 2 years of experience in applied machine learning to different business a
 
 ### News:
 
-* **25th of September 2019 :** Got the Student Funding Award by NSF for IEOM Conference in Toronto, Canada
+* **October 2019 :** Top 11% position for the most performing model (92.8% AUC) at IEEE Competition for Fraud detection Competition(https://www.kaggle.com/smerllo). Check out some of [my contributions](https://www.kaggle.com/smerllo/identify-unique-cards-id). [solution will be published soon!]
 
-* **11th of September 2019 :** Our paper Early detection of sepsis using Light-GBM has been accepted and presented in CinC 2019 Conference in Singapore
+* **September 2019 :** Got the Student Funding Award by NSF for IEOM Conference in Toronto, Canada
+
+* **September 2019 :** Our paper Early detection of sepsis using Light-GBM has been accepted and presented in CinC 2019 Conference in Singapore
 
 * **July 2019 :** gave a talk in tech school about  [Machine Learning 101](http://bit.ly/2niZsLt)
 
