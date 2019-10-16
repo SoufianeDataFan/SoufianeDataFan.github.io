@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF of my resume can be downloaded [here](http://bit.ly/2IoWA6V).
+A PDF of my resume can be downloaded [short version](http://bit.ly/2IoWA6V) [long version](https://soufianedatafan.github.io/files/CHAMI_Soufiane_Resume_mgnt__Long_version_.pdf).
 
 
 
