@@ -20,6 +20,8 @@ Earned 2 years of experience in applied machine learning to different business a
 
 * **July 2019 :** gave a talk in tech school about  [Machine Learning 101](http://bit.ly/2niZsLt)
 
+* **April 2019:** [Google Award for sepsis Research] Google accepted my research proposal for early detection sepsis. The project has been granted with 5k$ of computational resources to work on sepsis. Results are published!
+
 * **April 2019:** [San Francisco: Kaggle Days & Google Next'19](http://bit.ly/2oVdT8F) Proud to be part of the first Kaggle event in the US at San Francisco along with GoogleNext19. I was happy to connect and speak with other data science practitioners from Silicon Valley and Bay Area.
 
 
