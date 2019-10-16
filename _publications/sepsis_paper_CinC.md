@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Early Detection of Sepsis"
+title: "Comparative study of Light-GBM and RNN for Early Prediction of Sepsis from Clinical Data"
 collection: publications
 permalink: /publication/sepsis_paper_CinC
 date: 2019-09-10
