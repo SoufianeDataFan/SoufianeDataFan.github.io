@@ -1,16 +1,21 @@
 ---
 permalink: /
-title: "Short Bio"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+## Short Bio
 
 Earned 2 years of experience in applied machine learning to different business areas, from manufacturing  and mining industry to finance/banking and later in medicine. Proficient in building models with R and Python.
 
-### News:
+Go to [Resume](https://soufianedatafan.github.io/cv/)
+
+
+
+### Academic News:
 
 * **October 2019 :** Top 11% for the most performing model (92.8% AUC) at [IEEE Competition for Fraud detection Competition](https://www.kaggle.com/smerllo). Check out some of [my contributions](https://www.kaggle.com/smerllo/identify-unique-cards-id). [solution will be published soon!]
 
