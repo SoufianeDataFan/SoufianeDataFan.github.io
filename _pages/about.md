@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Short Bio
 
-Data scientist with mid-level experience in developing machine-learning-based software using R and Python. Successfully managed analytics projects in industry and academia from conception to production.
+Software Engineer with mid-level experience in developing machine-learning-based software using R and Python. Successfully managed analytics projects in industry and academia from conception to production.
 
 Go to [Resume](https://soufianedatafan.github.io/cv/)
 
