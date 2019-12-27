@@ -25,7 +25,7 @@ Go to [Resume](https://soufianedatafan.github.io/cv/)
 
 * **July 2019 :** Talk in tech school about  [Machine Learning 101](http://bit.ly/2niZsLt)
 
-* **April 2019:** [Google Award for sepsis Research](https://soufianedatafan.github.io/) Google accepted our research proposal for early detection of sepsis. The project has been granted with 5k$ of computational resources to work on sepsis. See publications section.
+* **April 2019:** [Google Award for sepsis Research](https://soufianedatafan.github.io/) Google accepted our research proposal for early detection of sepsis. The project has been granted with $5,000 of computational resources to work on sepsis. See publications section.
 
 * **April 2019:** [San Francisco: Kaggle Days & Google Next'19](http://bit.ly/2oVdT8F) Proud to be part of the first Kaggle event in the US at San Francisco along with GoogleNext19. I was happy to connect and speak with other data science practitioners from Silicon Valley and Bay Area.
 
