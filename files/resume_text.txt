@@ -1,6 +1,8 @@
 Soufiane Chami
 Data Scientist - USA Fulbright Fellow
-email : soufiane.chami@und.edu	Website
+
+email : soufiane.chami@und.edu
+Website : http://soufianedatafan.github.io
 
 
 Professional Summary
@@ -14,10 +16,10 @@ Location : Grand Forks ND, USA
 University of North Dakota
 M.Sc in Computer science and Electrical Engineering
 
-Education 1:
+Education 2:
 From Sept. 2012 - August 2017
 Location : Rabat, Morocco
-École Mohammedia des Ingénieurs
+École Mohammadia des Ingénieurs
 B.Sc in Applied Mathematics - Minor in Statistics
 
 
@@ -25,31 +27,21 @@ B.Sc in Applied Mathematics - Minor in Statistics
 Job 1: Data scientist, University of North Dakota
 Location: Grand Forks, North Dakota
 From August 2018 to Present
-- Churn Prediction in Clinical Context: Design of machine learning model to detect patients with blood
-poisoning, sepsis, based on clinical data 6 hours earlier than a doctor. My paper and results are published in the
-CinC 2019 Conference in Singapore.
-- Energy Efficiency: for my second paper, I worked on building a scalable gradient boosting machine model to
-predict energy consumption per building in different locations using python.
-Skills and Technologies: Python, GitHub, Docker, Google Cloud, Parallel computing, ETL, Visualization, Linux
+◦ Churn Prediction in Clinical Context: Design of machine learning model to detect patients with blood poisoning, sepsis, based on clinical data 6 hours earlier than a doctor. My paper and results are published in the CinC 2019 Conference in Singapore.◦ Deep Energy Retrofit: for my second paper, I worked on building a scalable machine learning model to predict energy consumption per building in different locations using python.◦ Technologies: Python, GitHub, Docker, Google Cloud, Parallel computing, ETL, Visualization, Linux
 
 
 Job 2: Data scientist, BMCE Bank Of Africa Group
 Location: Casablanca, Morocco
 From Dec 2017 - June 2018
-- Financial Risk Management: As a data scientist, I designed and deployed new machine learning system for
-Credit Default Risk and Credit Loss Evaluation. I accomplished performance of 80% for Credit Risk, and I
-achieved 90% for Credit Loss on some financial products and at least 70% on most of them. Resulted in cutting
-$1.0M in financial credit losses.
-- Credit Fraud Risk Management: I contributed to building an automated loan fraud detection system by
-conducting fraud cases assessment and audit and establishing a robust training and testing data.
-Skills and Technologies: Auto-ML with H2O, Spark, R, Python, ETL programming, Shell scripting
+◦ Financial Risk Management: As a data scientist, I designed and deployed new machine learning system for Credit Default Risk and Credit Loss Evaluation. I accomplished performance of 80% for Credit Risk, and I achieved 90% for Credit Loss on some financial products and at least 70% on most of them. Resulted in cutting $1.0M in financial credit losses.◦ Credit Fraud Risk Management: I contributed to building an automated loan fraud detection system by conducting fraud cases assessment and audit and establishing a robust training and testing data.◦ Technologies: Auto-ML with H2O, Spark, R, Python, ETL programming, Shell scripting
 
 
-Job 3: Data Scientist, OCP Group SA , From Feb 2017 - June 2017
+
+Job 3: 
+Data Scientist, OCP Group SA
 Location: Casablanca, Morocco
-- Predictive Maintenance: As a data scientist, I designed and deployed a new system to predict failures events of
-critical routing machines in the plant using R. Model performance achieved over 80%.
-Skills and TechnologiesTechnologies: R, R-shiny, Data Visualization with R, ETL programming
+From Feb 2017 - June 2017
+◦ Predictive Maintenance: As a data scientist, I designed and deployed a machine learning system to predict failures of critical routing machines in the plant using R. Model performance achieved over 80%.◦ Technologies: R, R-shiny, Data Visualization with R, ETL programming
 
 
 
