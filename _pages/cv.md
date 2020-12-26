@@ -7,13 +7,14 @@ redirect_from:
   - /resume
 ---
 
-<!-- A more detailed version of my resume can be downloaded from [[here]](https://soufianedatafan.github.io/files/CHAMI_Soufiane_Resume.pdf) -->
+A more detailed version of my resume can be downloaded from [[here]](https://soufianedatafan.github.io/files/CHAMI_Soufiane_Resume_2_pages.pdf)
 
 {% include base_path %}
 <object data="/files/CHAMI_Soufiane_Resume.pdf" type="application/pdf" width="600px" height="775px">
-    <embed src="/files/CHAMI_Soufiane_Resume.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/CHAMI_Soufiane_Resume.pdf">Download PDF</a>.</p>
-    </embed>
+<embed src="/files/CHAMI_Soufiane_Resume.pdf" type="application/pdf">
+
+<p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/CHAMI_Soufiane_Resume.pdf">Download PDF</a>.</p>
+</embed>
 </object>
 
 <!--
