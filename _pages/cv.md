@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A more detailed version of my resume can be downloaded from [[here]](https://soufianedatafan.github.io/files/CHAMI_Soufiane_Resume_2_pages.pdf)
+Longer version of my resume can be downloaded from [[here]](https://soufianedatafan.github.io/files/CHAMI_Soufiane_Resume_2_pages.pdf)
 
 {% include base_path %}
 <object data="/files/CHAMI_Soufiane_Resume.pdf" type="application/pdf" width="600px" height="775px">
